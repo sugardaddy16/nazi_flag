@@ -1,4 +1,4 @@
-# 🇩🇪 Nazi Flag
+# Nazi Flag — Python Turtle 繪圖 / Python Turtle Drawing
 
 __[🇹🇼正體中文](https://github.com/sugardaddy16/nazi_flag#%E4%B8%AD%E6%96%87%E8%AA%AA%E6%98%8E)__ ・ __[🇺🇸/🇬🇧English](https://github.com/sugardaddy16/nazi_flag#english)__
 
@@ -8,7 +8,7 @@ __[🇹🇼正體中文](https://github.com/sugardaddy16/nazi_flag#%E4%B8%AD%E6%
 
 ---
 
-## 📖 中文說明
+## 中文說明
 
 ### 專案簡介
 
@@ -19,7 +19,7 @@ __[🇹🇼正體中文](https://github.com/sugardaddy16/nazi_flag#%E4%B8%AD%E6%
 | 檔案 | 說明 |
 |------|------|
 | `nazi.py` | 主要 Python 腳本，使用 `turtle` 繪圖 |
-| `nazi.ipynb` | Google Colab 版本 |
+| `nazi.ipynb` | [Google Colab](https://colab.research.google.com/github/sugardaddy16/nazi_flag/blob/main/nazi.ipynb) 版本 |
 | `LICENSE` | MIT 授權條款 |
 
 ### 環境需求
@@ -38,7 +38,7 @@ cd nazi_flag
 python nazi.py
 ```
 
-或者開啟 `nazi.ipynb` 以 Google Colab 執行。
+或者點擊 [`nazi.ipynb`](https://colab.research.google.com/github/sugardaddy16/nazi_flag/blob/main/nazi.ipynb) 以 Google Colab 開啟執行。
 
 ### 運作原理
 
@@ -54,7 +54,7 @@ python nazi.py
 
 ---
 
-## 📖 English
+## English
 
 ### About
 
@@ -65,7 +65,7 @@ This project uses Python's built-in `turtle` module to programmatically draw the
 | File | Description |
 |------|-------------|
 | `nazi.py` | Main Python script using `turtle` graphics |
-| `nazi.ipynb` | Google Colab |
+| `nazi.ipynb` | [Google Colab](https://colab.research.google.com/github/sugardaddy16/nazi_flag/blob/main/nazi.ipynb) version |
 | `LICENSE` | MIT License |
 
 ### Requirements
@@ -84,7 +84,7 @@ cd nazi_flag
 python nazi.py
 ```
 
-Or open `nazi.ipynb` in Google Colab.
+Or open [`nazi.ipynb`](https://colab.research.google.com/github/sugardaddy16/nazi_flag/blob/main/nazi.ipynb) in Google Colab.
 
 ### How It Works
 
